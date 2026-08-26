@@ -1,11 +1,11 @@
 {
-  "enabled": false,
-  "image_url": null,
+  "enabled": true,
+  "image_url": "https://raw.githubusercontent.com/advisiononline3-sudo/vision-wallpaper-locator/main/banner/current-banner.jpg?v=1787707392239",
   "title": "Advertiser offer",
   "text": null,
   "click_url": null,
   "start_date": "2026-08-26T01:16:00.000Z",
   "end_date": "2026-08-26T02:30:00.000Z",
-  "updated_at": "2026-08-26T01:22:40.297889Z",
-  "version": "1787707360297"
+  "updated_at": "2026-08-26T01:23:12.239393Z",
+  "version": "1787707392239"
 }
