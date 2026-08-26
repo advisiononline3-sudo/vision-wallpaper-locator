@@ -1,11 +1,11 @@
 {
-  "enabled": false,
-  "image_url": null,
-  "title": null,
+  "enabled": true,
+  "image_url": "https://raw.githubusercontent.com/advisiononline3-sudo/vision-wallpaper-locator/main/banner/current-banner.jpg?v=1787713868914",
+  "title": "ssale offer 20 rupes par fit",
   "text": null,
   "click_url": null,
-  "start_date": "2026-08-26T01:27:00.000Z",
-  "end_date": "2026-08-26T04:30:00.000Z",
-  "updated_at": "2026-08-26T02:02:05.152615Z",
-  "version": "1787709725152"
+  "start_date": "2026-08-26T03:10:00.000Z",
+  "end_date": "2026-08-26T13:50:00.000Z",
+  "updated_at": "2026-08-26T03:11:08.914650Z",
+  "version": "1787713868914"
 }
