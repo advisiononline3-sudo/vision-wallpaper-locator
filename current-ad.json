@@ -1,11 +1,11 @@
 {
   "enabled": true,
-  "image_url": "https://raw.githubusercontent.com/advisiononline3-sudo/vision-wallpaper-locator/main/banner/current-banner.jpg?v=1787708483742",
+  "image_url": "https://raw.githubusercontent.com/advisiononline3-sudo/vision-wallpaper-locator/main/banner/current-banner.jpg?v=1787708542845",
   "title": null,
   "text": null,
   "click_url": null,
   "start_date": "2026-08-26T01:27:00.000Z",
   "end_date": "2026-08-26T04:30:00.000Z",
-  "updated_at": "2026-08-26T01:41:23.742822Z",
-  "version": "1787708483742"
+  "updated_at": "2026-08-26T01:42:22.845813Z",
+  "version": "1787708542845"
 }
