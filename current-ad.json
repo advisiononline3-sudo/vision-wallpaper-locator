@@ -1,11 +1,11 @@
 {
-  "enabled": false,
-  "image_url": null,
-  "title": "Advertiser offer",
+  "enabled": true,
+  "image_url": "https://raw.githubusercontent.com/advisiononline3-sudo/vision-wallpaper-locator/main/banner/current-banner.jpg?v=1787707643443",
+  "title": "full screwn  bohat kam ka ha ye sab to yar ab pata chalay ga",
   "text": null,
   "click_url": null,
-  "start_date": "2026-08-26T02:25:00.000Z",
+  "start_date": "2026-08-26T01:27:00.000Z",
   "end_date": "2026-08-26T02:30:00.000Z",
-  "updated_at": "2026-08-26T01:26:26.217805Z",
-  "version": "1787707586217"
+  "updated_at": "2026-08-26T01:27:23.443543Z",
+  "version": "1787707643443"
 }
