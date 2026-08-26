@@ -1,11 +1,11 @@
 {
-  "enabled": false,
+  "enabled": true,
   "image_url": null,
-  "title": null,
+  "title": "test ad",
   "text": null,
   "click_url": null,
-  "start_date": null,
-  "end_date": null,
-  "updated_at": "2026-08-26T00:00:00Z",
-  "version": "v1.4.0-initial"
+  "start_date": "2026-08-26T01:16:00.000Z",
+  "end_date": "2026-08-26T03:25:00.000Z",
+  "updated_at": "2026-08-26T01:16:22.666991Z",
+  "version": "1787706982666"
 }
