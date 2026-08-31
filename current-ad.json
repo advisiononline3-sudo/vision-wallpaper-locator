@@ -1,11 +1,11 @@
 {
-  "enabled": false,
+  "enabled": true,
   "image_url": null,
-  "title": null,
+  "title": "نیا ورژن جلد آ رہا ہے! 🚀Vision Wallpaper Calculator کا نیا ا",
   "text": null,
   "click_url": null,
-  "start_date": null,
-  "end_date": null,
-  "updated_at": "2026-08-26T04:28:58.930765Z",
-  "version": "1787718538930"
+  "start_date": "2026-08-31T12:09:00.000Z",
+  "end_date": "2026-09-05T12:09:00.000Z",
+  "updated_at": "2026-08-31T12:10:06.896778Z",
+  "version": "1788178206896"
 }
