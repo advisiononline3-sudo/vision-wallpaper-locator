@@ -1,11 +1,11 @@
 {
-  "enabled": false,
-  "image_url": null,
-  "title": null,
-  "text": null,
+  "enabled": true,
+  "image_url": "https://raw.githubusercontent.com/advisiononline3-sudo/vision-wallpaper-locator/main/banner/current-banner.jpg?v=1791207119799",
+  "title": "design",
+  "text": "urgent printed ng",
   "click_url": null,
-  "start_date": null,
-  "end_date": null,
-  "updated_at": "2026-08-31T21:55:07.465116Z",
-  "version": "1788213307465"
+  "start_date": "2026-10-05T13:17:00.000Z",
+  "end_date": "2026-10-07T13:17:00.000Z",
+  "updated_at": "2026-10-05T13:31:59.799130Z",
+  "version": "1791207119799"
 }
